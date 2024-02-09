@@ -8,3 +8,5 @@ Input\
 └─code.txt
 
 There is also a compiled version of the Compiler as an executable, which you can run using the same logic.
+
+For the compiled version, unzip it and then add your Input/code.txt
