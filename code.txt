@@ -1,0 +1,14 @@
+var adder = 0;
+var ao = 1;
+plout ao;
+adder += ao;
+adder += ao;
+adder += ao;
+adder += ao;
+adder += ao;
+adder += adder;
+adder += ao;
+adder += ao;
+adder += ao;
+adder += ao;
+adder += ao;
